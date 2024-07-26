@@ -5,6 +5,11 @@
 
 The **CloudDrawingSVG** project features an SVG graphic of a cloud-like shape with an animation that simulates the process of drawing the cloud. The animation transitions the stroke color from black to red, creating the effect of the cloud being drawn in real-time.
 
+## Live demo
+
+https://github.com/user-attachments/assets/f1fb7075-08e2-42d2-83e5-78651af54969
+
+
 ## How to View
 
 To view the CloudDrawingSVG graphic:
