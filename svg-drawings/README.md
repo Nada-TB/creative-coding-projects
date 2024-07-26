@@ -6,7 +6,7 @@ Welcome to the SVG Drawings folder! This directory showcases projects that lever
 
 ## All Projects
 Here are links to all the projects inside the SVG Drawings folder:
-- **[Animated-text-border-SVG](#https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings/animated-text-border-SVG)**
+- **[animated-text-border-SVG](#https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings/animated-text-border-SVG)**
 - **[ballerina-umbrella-SVG](#https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings/ballerina-umbrella-SVG)** 
 - **[circular-progress-with-progress-SVG](#https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings/circular-progress-with-percentage-svg)**
 - **[cloud-drawing-svg](#https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings/cloud-drawing-svg)** 
