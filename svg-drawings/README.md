@@ -21,7 +21,6 @@ Here are links to all the projects inside the SVG Drawings folder:
 - **[tooth-illustration](https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings/tooth-illustration)**
  
 
-
 ## Folder Layout
 
 Each project in this folder is organized as follows:
