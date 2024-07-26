@@ -5,6 +5,9 @@
 
 The **AnimatedTextBorderSVG** project features an SVG graphic that displays a rectangle dynamically drawn around a text element. The rectangle's border is animated to create a visually engaging effect, highlighting the text with a lively and interactive design.
 
+## Demo 
+[click here](https://codepen.io/Nada_T/full/WNQdQeq)
+
 ## How to View
 
 To view the AnimatedTextBorderSVG graphic:
