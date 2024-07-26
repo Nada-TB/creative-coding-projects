@@ -5,6 +5,9 @@
 
 The **CircularProgressWithPercentageSVG** project features an SVG graphic that represents a circular progress indicator. This design uses a circle with a percentage label and a section of the circle detached to visually convey progress or completion levels in a clear and engaging manner.
 
+## Demo
+![screenshot](https://github.com/Nada-TB/creative-coding-projects/blob/main/projects-preview/Screenshot%202024-07-26%20141826.png)
+
 ## How to View
 
 To view the CircularProgressWithPercentageSVG graphic:
