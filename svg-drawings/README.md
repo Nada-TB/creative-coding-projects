@@ -4,6 +4,21 @@
 
 Welcome to the SVG Drawings folder! This directory showcases projects that leverage SVG (Scalable Vector Graphics) for creating vector-based artwork and illustrations.
 
+## All Projects
+Here are links to all the projects inside the SVG Drawings folder:
+- **[Animated-text-border-SVG](#)** *(Replace with the actual link)*
+- **[ballerina-umbrella-SVG](#)** *(Replace with the actual link)*
+- **[circular-progress-with-progress-SVG](#)** *(Replace with the actual link)*
+- **[cloud-drawing-svg](#)** *(Replace with the actual link)*
+- **[coffee-cup-svg](#)** *(Replace with the actual link)*
+- **[geometric-eye-SVG](#)** *(Replace with the actual link)*
+- **[Girl-symbol-SVG](#)** *(Replace with the actual link)*
+- **[Nada-Signature-SVG](#)** *(Replace with the actual link)*
+- **[pear-SVG](#)** *(Replace with the actual link)*
+- **[Surprised-face-SVG](#)** *(Replace with the actual link)*
+- **[tooth-illustration](#)** *(Replace with the actual link)*
+
+
 ## Folder Layout
 
 Each project in this folder is organized as follows:
