@@ -1,0 +1,40 @@
+svg {
+  width: 500px;
+  height: 300px;
+  margin: 100px auto;
+}
+div {
+  width: 300px;
+  margin: 20px auto;
+}
+rect {
+  x: 50px;
+  y: 25px;
+  rx: 10px;
+  fill: yellow;
+  stroke: black;
+  stroke-width: 3px;
+  width: 200px;
+  height: 100px;
+  animation: animate 3s infinite;
+}
+
+@keyframes animate {
+  from {
+    stroke: black;
+    stroke-dasharray: 1000;
+    stroke-dashoffset: 1000;
+  }
+
+  to {
+    stroke: black;
+    stroke-dashoffset: 0;
+  }
+}
+
+text {
+  fill: black;
+  text-shadow: 2px -2px 3px grey;
+  text-transform: uppercase;
+  font-size: 1em;
+}

@@ -1,0 +1,32 @@
+body{
+    width:100%;
+    background-color:#000000;
+  }
+  div{
+    margin: 10px auto;
+    width:50%;
+    height:100vh;
+  }
+  svg{
+    width:100%;
+    height:100%;
+    background-color:#ffffff; 
+    transform:scale(1.5);
+  }
+  
+  circle, ellipse{
+    animation: animate 5s infinite;
+    
+  }
+  
+  @keyframes animate {
+    from {
+      stroke-dasharray: 1000;
+      stroke-dashoffset: 1000;
+    
+    }
+  
+    to {
+      stroke-dashoffset: 0;
+    }
+  }

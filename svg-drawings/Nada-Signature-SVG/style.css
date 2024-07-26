@@ -1,0 +1,27 @@
+svg{
+    border: 1px solid blue;
+  }
+
+  div{
+    width: 500px;
+    margin: 50px auto ;
+  }
+  polyline, path{
+    transition: stroke 2s;
+    fill:transparent;
+    animation: animate 10s infinite;
+  }
+  
+  @keyframes animate {
+    from {
+      stroke: black;
+      stroke-dasharray: 1000;
+      stroke-dashoffset: 1000;
+    }
+  
+    to {
+      stroke: red;
+      stroke-dashoffset: 0;
+    }
+  }
+  
