@@ -5,18 +5,21 @@
 Welcome to the SVG Drawings folder! This directory showcases projects that leverage SVG (Scalable Vector Graphics) for creating vector-based artwork and illustrations.
 
 ## All Projects
+
 Here are links to all the projects inside the SVG Drawings folder:
-- **[animated-text-border-SVG](#https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings/animated-text-border-SVG)**
-- **[ballerina-umbrella-SVG](#https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings/ballerina-umbrella-SVG)** 
-- **[circular-progress-with-progress-SVG](#https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings/circular-progress-with-percentage-svg)**
-- **[cloud-drawing-svg](#https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings/cloud-drawing-svg)** 
-- **[coffee-cup-svg](#https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings/coffee-cup-svg)** *
-- **[geometric-eye-SVG](#https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings/geometric-eye-SVG)** 
-- **[Girl-symbol-SVG](#https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings/Girl-symbol-SVG)** 
-- **[Nada-Signature-SVG](#https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings/Nada-Signature-SVG)** 
-- **[pear-SVG](#https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings/pear-SVG)** 
-- **[Surprised-face-SVG](#https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings/Surprised-face-SVG)** )*
-- **[tooth-illustration](#https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings/Tooth-illlustration)** 
+
+- **[animated-text-border-SVG](https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings/animated-text-border-SVG)**
+- **[ballerina-umbrella-SVG](https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings/ballerina-umbrella-SVG)** 
+- **[circular-progress-with-percentage-SVG](https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings/circular-progress-with-percentage-SVG)**
+- **[cloud-drawing-SVG](https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings/cloud-drawing-SVG)** 
+- **[coffee-cup-SVG](https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings/coffee-cup-SVG)**
+- **[geometric-eye-SVG](https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings/geometric-eye-SVG)** 
+- **[girl-symbol-SVG](https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings/girl-symbol-SVG)** 
+- **[nada-signature-SVG](https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings/nada-signature-SVG)** 
+- **[pear-SVG](https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings/pear-SVG)** 
+- **[surprised-face-SVG](https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings/surprised-face-SVG)**
+- **[tooth-illustration](https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings/tooth-illustration)**
+ 
 
 
 ## Folder Layout
