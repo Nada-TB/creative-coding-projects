@@ -5,6 +5,8 @@
 
 The **CoffeeCupSVG** project features an SVG graphic depicting a stylized coffee cup. The design utilizes circles and ellipses to create a simple representation of a coffee cup, complete with a handle and a cup's body.
 
+## Screenshot
+![screenshot](https://github.com/Nada-TB/creative-coding-projects/blob/main/projects-preview/Screenshot%202024-07-26%20153423.png)
 ## How to View
 
 To view the CoffeeCupSVG graphic:
