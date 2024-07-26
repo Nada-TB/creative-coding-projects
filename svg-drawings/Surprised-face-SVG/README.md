@@ -4,6 +4,10 @@
 
 The **SurprisedFaceSVG** project features an SVG graphic that forms a surprised face using colorful circles, lines, and ellipses. The project includes animation effects that enhance the visual impact of the surprised expression.
 
+## Live demo 
+
+ https://github.com/user-attachments/assets/d4b19bfc-6e17-4f20-b6cd-a188240b581b
+
 ## How to View
 
 To view the SurprisedFaceSVG graphic:
