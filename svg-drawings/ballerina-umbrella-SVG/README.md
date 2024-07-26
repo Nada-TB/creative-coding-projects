@@ -5,6 +5,9 @@
 
 The **BallerinaUmbrellaSVG** project features an SVG graphic of a ballerina holding an umbrella. The illustration is a work in progress, showcasing the use of SVG paths to create a stylized figure and an umbrella. 
 
+## Demo
+[Click here](https://codepen.io/Nada_T/full/oNYYdbE)
+
 ## How to View
 
 To view the BallerinaUmbrellaSVG graphic:
