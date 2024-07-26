@@ -1,9 +1,12 @@
 
-# GeometricEyeSVG
+# Geometric Eye SVG
 
 ## Overview
 
 The **GeometricEyeSVG** project features an SVG graphic that represents a geometric shape resembling an eye. This design uses triangles and ellipses to create an eye-like structure, demonstrating basic SVG shape usage and styling.
+
+## Demo
+![screenshot](https://github.com/Nada-TB/creative-coding-projects/blob/main/projects-preview/Screenshot%202024-07-26%20153441.png)
 
 ## How to View
 
