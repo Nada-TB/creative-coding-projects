@@ -1,3 +1,6 @@
 [submodule "Walking-Lego-Character-Animation"]
 	path = Walking-Lego-Character-Animation
 	url = https://github.com/Nada-TB/Walking-Lego-Character-Animation.git
+[submodule "Analog-Clock-with-Random-Mood-Display"]
+	path = Analog-Clock-with-Random-Mood-Display
+	url = https://github.com/Nada-TB/Analog-Clock-with-Random-Mood-Display.git
