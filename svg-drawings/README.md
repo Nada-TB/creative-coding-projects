@@ -27,7 +27,9 @@ To explore any SVG project:
   - **CSS Animations**: Adds movement and expression to the facial features.
   - **Complex SVG Manipulation**: Uses circles, ellipses, and paths to create a detailed and animated face.
   - **Responsive Design**: Scales seamlessly across different screen sizes.
-- **Preview**: *(Consider adding a screenshot or link to a live demo)*
+- **Preview**:
+  
+  https://github.com/user-attachments/assets/d4b19bfc-6e17-4f20-b6cd-a188240b581b
 
 ### 2. **Geometric Girl Symbol**
 - **Description**: A minimalist SVG design representing the female symbol using geometric shapes. This project highlights clean, effective design through precise geometric elements.
@@ -35,7 +37,9 @@ To explore any SVG project:
   - **Geometric Precision**: Employs basic shapes like rectangles, circles, and polygons to form the symbol.
   - **SVG `use` Elements**: Demonstrates modular design and reusability.
   - **Minimalist Approach**: Focuses on simplicity and clarity with a limited color palette.
-- **Preview**: *(Consider adding a screenshot or link to a live demo)*
+- **Preview**:
+  
+  ![demo](https://github.com/Nada-TB/creative-coding-projects/blob/main/projects-preview/Screenshot%202024-07-26%20141723.png)
 
 ### 3. **Circular Progress Indicator with Percentage**
 - **Description**: An SVG graphic featuring a circular progress indicator with a percentage label and a visually distinct detached segment. This project illustrates your skill in creating functional data visualizations.
@@ -43,7 +47,9 @@ To explore any SVG project:
   - **Circular Progress Visualization**: Effectively represents progress with a clear, circular design.
   - **Percentage Labeling**: Integrates text for precise progress indication.
   - **Advanced Path Handling**: Uses complex SVG paths for a professional and informative visual.
-- **Preview**: *(Consider adding a screenshot or link to a live demo)*
+- **Preview**:
+
+  ![demo](https://github.com/Nada-TB/creative-coding-projects/blob/main/projects-preview/Screenshot%202024-07-26%20141826.png)
 
 ### 4. **Nada Signature**
 - **Description**: A stylized SVG depiction of the signature "Nada," showcasing your ability to design custom text using SVG paths.
@@ -51,7 +57,9 @@ To explore any SVG project:
   - **Custom Text Design**: Utilizes SVG paths to create a unique and elegant text signature.
   - **Creative Approach**: Demonstrates artistic skills in text design and manipulation.
   - **Visual Impact**: Produces a visually striking and memorable text graphic.
-- **Preview**: *(Consider adding a screenshot or link to a live demo)*
+- **Preview**:
+
+  https://github.com/user-attachments/assets/2fb360c7-9b26-49f3-868c-08e957d9556e
 
 ## Additional Information
 
@@ -62,5 +70,5 @@ To explore any SVG project:
 
 If you have any questions or feedback about these SVG projects, please feel free to:
 
-- Open an issue on [GitHub Issues](https://github.com/yourusername/your-repository/issues).
-- Reach out via email at [your-email@example.com](mailto:your-email@example.com) or connect with me on [Twitter](https://twitter.com/yourusername).
+- Open an issue on [GitHub Issues](https://github.com/Nada-TB/creative-coding-projects/issues).
+- connect with me on [X (ex: Twitter)](https://x.com/Nada__Ta).
