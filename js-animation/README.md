@@ -4,6 +4,7 @@
 ## Overview
 
 Welcome to the JavaScript Animations folder! This directory contains projects that leverage JavaScript to create dynamic and interactive animations on the web. Each project demonstrates the use of JavaScript for enhancing user experience through engaging animations.
+
 ## All Projects
 
 Here are links to all the projects inside the Javascript animations folder:
