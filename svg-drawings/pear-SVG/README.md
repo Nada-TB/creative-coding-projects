@@ -5,6 +5,9 @@
 
 The **PearSVG** project features an SVG graphic that depicts a stylized pear. The design uses a combination of ellipses, circles, and paths to create a simple representation of a pear, including its shape and a stylized leaf.
 
+## Demo 
+![screenshot](https://github.com/Nada-TB/creative-coding-projects/blob/main/projects-preview/Screenshot%202024-07-26%20153502.png)
+
 ## How to View
 
 To view the PearSVG graphic:
