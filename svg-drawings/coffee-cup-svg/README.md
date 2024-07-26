@@ -1,5 +1,5 @@
 
-# CoffeeCupSVG
+# Coffee Cup SVG
 
 ## Overview
 
