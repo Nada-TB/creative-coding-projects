@@ -9,6 +9,7 @@ Welcome to the JavaScript Animations folder! This directory contains projects th
 Here are links to all the projects inside the Javascript animations folder:
 
 - **[Walking-Lego-Character-Animation](https://github.com/Nada-TB/Walking-Lego-Character-Animation/tree/9bb481de583e181731e6ec9439be8b5f70f08dac)**
+- **[Analog-Clock-with-Random-Mood-Display](https://github.com/Nada-TB/Analog-Clock-with-Random-Mood-Display/tree/cabb4f615babf2df9c72b88433504c364ae67783)**
 
 
 
