@@ -8,18 +8,8 @@ Welcome to the JavaScript Animations folder! This directory contains projects th
 
 Here are links to all the projects inside the Javascript animations folder:
 
-- **[animated-text-border-SVG](https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings/animated-text-border-SVG)**
-- **[ballerina-umbrella-SVG](https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings/ballerina-umbrella-SVG)** 
-- **[circular-progress-with-percentage-SVG](https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings/circular-progress-with-percentage-SVG)**
-- **[cloud-drawing-SVG](https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings/cloud-drawing-SVG)** 
-- **[coffee-cup-SVG](https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings/coffee-cup-SVG)**
-- **[geometric-eye-SVG](https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings/geometric-eye-SVG)** 
-- **[girl-symbol-SVG](https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings/girl-symbol-SVG)** 
-- **[nada-signature-SVG](https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings/nada-signature-SVG)** 
-- **[pear-SVG](https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings/pear-SVG)** 
-- **[surprised-face-SVG](https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings/surprised-face-SVG)**
-- **[tooth-illustration](https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings/tooth-illustration)**
- 
+- **[Walking-Lego-Character-Animation](https://github.com/Nada-TB/Walking-Lego-Character-Animation/tree/9bb481de583e181731e6ec9439be8b5f70f08dac)**
+
 
 
 ## Folder Layout
