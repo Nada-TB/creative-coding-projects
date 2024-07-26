@@ -1,0 +1,6 @@
+[submodule "js-animation/Walking-Lego-Character-Animation"]
+	path = js-animation/Walking-Lego-Character-Animation
+	url = https://github.com/Nada-TB/Walking-Lego-Character-Animation.git
+[submodule "js-animation/Analog-Clock-with-Random-Mood-Display"]
+	path = js-animation/Analog-Clock-with-Random-Mood-Display
+	url = https://github.com/Nada-TB/Analog-Clock-with-Random-Mood-Display
