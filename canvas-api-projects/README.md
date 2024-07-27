@@ -8,10 +8,10 @@ Welcome to the Canvas API Projects folder! This directory showcases projects tha
 ## All Projects
 
 Here are links to all the projects inside the Canvas API Projects folder:
-**[color picker canvas]()**
-**[randomized line patterns]()**
-**[color grid canvas]()**
-**[interactive art studio]()**
+**[color picker canvas](https://github.com/Nada-TB/creative-coding-projects/tree/main/canvas-api-projects/color-picker-canvas)**
+**[randomized line patterns](https://github.com/Nada-TB/creative-coding-projects/tree/main/canvas-api-projects/randomized-line-patterns)**
+**[color grid canvas](https://github.com/Nada-TB/creative-coding-projects/tree/main/canvas-api-projects/color-grid-animation)**
+**[interactive art studio](https://github.com/Nada-TB/creative-coding-projects/tree/main/canvas-api-projects/interactive-art-studio-application)**
 
 ## Folder Layout
 
