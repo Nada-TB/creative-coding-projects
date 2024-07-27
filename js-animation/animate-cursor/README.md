@@ -38,5 +38,3 @@ The project is organized as follows:
 For questions or feedback about the AnimateCursor project, please reach out via GitHub Issues.
 
 ---
-
-Feel free to adjust or add any details as needed. Let me know if there’s anything specific you’d like to include or modify!
