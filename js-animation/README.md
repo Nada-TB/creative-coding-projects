@@ -23,7 +23,7 @@ Here are links to all the projects inside the Javascript animations folder:
 Each project in this folder is organized as follows:
 
 - **`index.html`**: The main HTML file that renders the animation.
-- **`script.js`**: JavaScript file containing the code for the animations (if applicable)
+- **`script.js`**: JavaScript file containing the code for the animations.
 - **`style.css`**: CSS file for styling the animation and its container.
 - **`README.md`**: This file, which provides details about the project.
 
