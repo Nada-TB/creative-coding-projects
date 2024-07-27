@@ -11,6 +11,10 @@ Here are links to all the projects inside the Javascript animations folder:
 
 - **[Walking-Lego-Character-Animation](https://github.com/Nada-TB/Walking-Lego-Character-Animation/tree/9bb481de583e181731e6ec9439be8b5f70f08dac)**
 - **[Analog-Clock-with-Random-Mood-Display](https://github.com/Nada-TB/Analog-Clock-with-Random-Mood-Display/tree/cabb4f615babf2df9c72b88433504c364ae67783)**
+-  **[animate-cursor](https://github.com/Nada-TB/creative-coding-projects/tree/main/js-animation/animate-cursor)**
+-  **[cloudy-day-message](https://github.com/Nada-TB/creative-coding-projects/tree/main/js-animation/cloudy-day-message)**
+-  **[heart-animation](https://github.com/Nada-TB/creative-coding-projects/tree/main/js-animation/heart-animation)**
+-  **[]()**
 
 
 
@@ -19,7 +23,7 @@ Here are links to all the projects inside the Javascript animations folder:
 Each project in this folder is organized as follows:
 
 - **`index.html`**: The main HTML file that renders the animation.
-- **`script.js`**: JavaScript file containing the code for the animations.
+- **`script.js`**: JavaScript file containing the code for the animations (if applicable)
 - **`style.css`**: CSS file for styling the animation and its container.
 - **`README.md`**: This file, which provides details about the project.
 
@@ -28,7 +32,16 @@ Each project in this folder is organized as follows:
 To explore any JavaScript animation project:
 
 1. Open the project folder.
-2. Launch `index.html` in your web browser to view the animation in action.
+2. Clone the Repository:
+   ```bash
+   git clone git clone https://github.com/Nada-TB/creative-coding-projects.git
+   ```
+3. Navigate to the Project Directory:
+   ```bash
+   cd creative-coding-projects/js-animation/project-name
+    ```
+   
+4. Launch `index.html` in your web browser to view the animation in action.
 
 ## Project Highlights
 
