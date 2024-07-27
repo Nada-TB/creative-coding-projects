@@ -14,7 +14,7 @@ Here are links to all the projects inside the Javascript animations folder:
 -  **[animate-cursor](https://github.com/Nada-TB/creative-coding-projects/tree/main/js-animation/animate-cursor)**
 -  **[cloudy-day-message](https://github.com/Nada-TB/creative-coding-projects/tree/main/js-animation/cloudy-day-message)**
 -  **[heart-animation](https://github.com/Nada-TB/creative-coding-projects/tree/main/js-animation/heart-animation)**
--  **[]()**
+-  **[soundbars-visualizer](https://github.com/Nada-TB/creative-coding-projects/tree/main/js-animation/soundbars-visualizer)**
 
 
 
