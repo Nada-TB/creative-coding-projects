@@ -34,7 +34,16 @@ Each project in this folder is organized as follows:
 To explore any SVG project:
 
 1. Open the project folder.
-2. Launch `index.html` in your web browser to view the SVG content.
+2. Clone the Repository:
+   ```bash
+   git clone git clone https://github.com/Nada-TB/creative-coding-projects.git
+   ```
+3. Navigate to the Project Directory:
+   ```bash
+   cd creative-coding-projects/svg-drawings/project-name
+    ```
+   
+4. Launch `index.html` in your web browser to view the SVG content.
 
 ## Project Highlights
 
