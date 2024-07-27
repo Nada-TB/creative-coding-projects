@@ -1,0 +1,105 @@
+#sky{
+  background-color: #99ccff;
+  position :fixed;
+  z-index:-6;
+  width: 100%;
+  height:100vh;
+  margin: -10px;
+}
+
+#sun{
+  width: 95px;
+  height: 95px;
+  background-color:yellow;
+  border-radius:50%;
+  margin: 70px auto;
+  position: relative;
+  z-index:-4;
+  transition: transform 2s ease;
+}
+
+#firstCloud{
+  width: 120px;
+  height: 120px;
+  border-radius:50%;
+  background-color: white;
+  position: absolute;
+  z-index:12;
+  top:28px;
+  right:25px;
+  opacity:0.75;
+}
+
+#secondCloud{
+  width:90px;
+  height:80px;
+  background-color:white;
+  border-radius:0 50% 50% 0;
+  position:absolute;
+  top: 40px;
+  right:-35px;
+}
+
+#face{
+  display: none;
+}
+
+#eye1{
+  width:10px;
+  height:10px;
+  background-color:brown;
+  border-radius:50%;
+  position: absolute;
+  top:30px;
+  left:25px;
+}
+#eye2{
+  width:10px;
+  height:10px;
+  background-color:brown;
+  border-radius:50%;
+  position: absolute;
+  top:30px;
+  right:25px;
+}
+
+#mouth{
+  width:50px;
+  height:50px;
+  border-bottom: solid 5px red;
+  border-radius:70%;
+  position: absolute;
+  top: 24px;
+  left:23px; 
+}
+
+#message{
+  position: absolute;
+  left:110%;
+  top:50%;
+  width:200px;
+  background-color:white;
+  text-align: center;
+  border-radius:17px;
+
+}
+#message:after{
+  content: "";
+  position: absolute;
+  top: 0%;
+  left: -8px;
+ /* margin-left: -5px;*/
+  border-width: 16px;
+  transform: rotate(25deg);
+  border-style: solid;
+  border-color: white transparent transparent       transparent;
+}
+
+
+@media only screen and (max-width: 600px){
+  #message{
+    width:150px;
+    top:150%;
+    left:50%;
+  }
+}

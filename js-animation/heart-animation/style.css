@@ -1,0 +1,63 @@
+#parent{
+  width:100px;
+  height:100px;
+  /*border:2px ridge grey;*/
+  margin: 20px auto;
+  position: relative;
+  border-radius:50%; 
+}
+span{
+  color:red;
+}
+h1{
+  text-align:center;
+}
+p{
+  margin:0;
+  padding:0;
+  position: absolute;
+  top:30px;
+  right:35px;
+  font-size:30px;
+  color:red;
+  cursor:pointer;
+  text-shadow:2px 2px 2px #ffb3b3;
+}
+
+#parent div{
+  position: absolute;
+  color:red;
+  visibility:hidden;
+  text-shadow:2px 2px 2px #ffb3b3;
+}
+.animate{
+  animation: effect 1s;
+}
+.heart{
+  animation: heart 1s;
+}
+@keyframes heart{
+  0%{
+    transform:scale(1);
+  }
+  100%{
+    transform:scale(1.5);
+  }
+}
+@keyframes effect{
+  0%{
+    top:45px;
+    right:45px;
+    visibility:visible;
+    opacity:1;
+  }
+  50%{
+    opacity:0.8;
+  }
+  75%{
+    opacity:0.6;
+  }
+  100%{
+    opacity:0.2;
+  }
+}

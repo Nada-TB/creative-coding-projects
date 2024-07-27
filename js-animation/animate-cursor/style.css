@@ -1,0 +1,8 @@
+p{
+    font-size:4rem;
+    color:blue;
+    background: linear-gradient(to right, orange 50%, grey 50%);
+    text-align: center;
+    margin:-8px;
+    text-transform:capitalize;
+  }

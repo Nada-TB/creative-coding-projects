@@ -4,6 +4,7 @@
 ## Overview
 
 The **ToothIllustration** project features an SVG graphic that represents a stylized tooth. This project demonstrates the use of SVG (Scalable Vector Graphics) for creating vector-based graphics and applies basic CSS transformations for visual effects.
+
 ## Demo
 ![screenshot](https://github.com/Nada-TB/creative-coding-projects/blob/main/projects-preview/Screenshot%202024-07-26%20153406.png)
 
