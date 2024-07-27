@@ -1,0 +1,13 @@
+canvas {
+    border: 2px solid grey;
+    border-radius: 10px;
+  }
+  div {
+    width: 200px;
+    margin: 50px auto;
+    cursor: crosshair;
+  }
+  h1 {
+    text-align: center;
+  }
+  
