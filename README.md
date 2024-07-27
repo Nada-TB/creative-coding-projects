@@ -11,7 +11,7 @@ This Wiki provides an overview of creative coding projects utilizing HTML, CSS, 
 
 This repository is organized into subfolders by project category:
 
-- **[svg drawings](https://github.com/Nada-TB/creative-coding-projects/tree/main/canvas-api-projects)**: SVG-based drawings and animations.
+- **[svg drawings](https://github.com/Nada-TB/creative-coding-projects/tree/main/svg-drawings)**: SVG-based drawings and animations.
 - **[js-animation](https://github.com/Nada-TB/creative-coding-projects/tree/main/js-animation)**:JavaScript animation projects
 - **[canvas api projects](https://github.com/Nada-TB/creative-coding-projects/tree/main/canvas-api-projects)**:Projects using the Canvas API
 - **[p5.js projects](https://github.com/Nada-TB/creative-coding-projects/tree/main/p5.js-projects)**:Projects utilizing the P5.js library for creative coding.
