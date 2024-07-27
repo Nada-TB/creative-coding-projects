@@ -6,12 +6,12 @@ Welcome to the p5.js projects This directory features projects that utilize the 
 
 ## All Projects
 
-Here are links to all the projects inside the p5.js Art Gallery folder:
+Here are links to all the projects inside the p5.js projects folder:
 
-- **[dynamic random color squares ]()**
-- **[dynamic stripes pattern ]()**
-- **[grid pattern circle canvas ]()**
-- **[sunburst-pattern canvas ]()**
+- **[dynamic random color squares ](https://github.com/Nada-TB/creative-coding-projects/tree/main/p5.js-projects/dynamic-random-color-squares)**
+- **[dynamic stripes pattern ](https://github.com/Nada-TB/creative-coding-projects/tree/main/p5.js-projects/dynamic-stripes-generator)**
+- **[grid pattern circle canvas ](https://github.com/Nada-TB/creative-coding-projects/tree/main/p5.js-projects/grid-pattern-circle-canvas)**
+- **[sunburst-pattern canvas ](https://github.com/Nada-TB/creative-coding-projects/tree/main/p5.js-projects/sunburst-pattern-canvas)**
 
 ## Folder Layout
 
