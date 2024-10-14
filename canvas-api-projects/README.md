@@ -58,7 +58,7 @@ To explore any Canvas project:
   - **Canvas Drawing**: Uses the Canvas API to manage and update rectangle positions and colors.
 - **Preview**:
 
-  [demo](https://codepen.io/Nada_T/full/abzXjpq)
+  [demo](https://codepen.io/Nada_T/full/WNaXZyR)
 
 ### 4. **Interactive art studio**
 - **Description**: An interactive canvas drawing application where users can draw with different colors using a set of buttons. This project showcases basic drawing capabilities and user interaction.
