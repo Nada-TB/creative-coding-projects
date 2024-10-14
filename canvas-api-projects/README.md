@@ -48,7 +48,7 @@ To explore any Canvas project:
   - **Interactive Feedback**: Provides immediate visual feedback based on user interaction with the canvas.
 - **Preview**:
 
-  ![demo](https://codepen.io/Nada_T/full/mdzqrXG)
+  [demo](https://codepen.io/Nada_T/full/mdzqrXG)
 
 ### 3. **color grid animation**
 - **Description**: This project demonstrates a canvas filled with animated rectangles that change color randomly. It provides a visual display of animated shapes using the Canvas API.
@@ -58,7 +58,7 @@ To explore any Canvas project:
   - **Canvas Drawing**: Uses the Canvas API to manage and update rectangle positions and colors.
 - **Preview**:
 
-  ![demo](https://codepen.io/Nada_T/full/abzXjpq)
+  [demo](https://codepen.io/Nada_T/full/abzXjpq)
 
 ### 4. **Interactive art studio**
 - **Description**: An interactive canvas drawing application where users can draw with different colors using a set of buttons. This project showcases basic drawing capabilities and user interaction.
@@ -68,7 +68,7 @@ To explore any Canvas project:
   - **Clear Button**: Includes a button to clear the canvas, enabling users to start fresh.
 - **Preview**:
 
-  ![demo](https://codepen.io/Nada_T/full/XWxzzBL)
+  [demo](https://codepen.io/Nada_T/full/XWxzzBL)
 
 ## Additional Information
 
