@@ -47,6 +47,9 @@ To explore any JavaScript animation project:
 
 ### 1. **Walking Lego Character Animation**
 - **Description**: An animated Lego character that walks forward on the screen, disappears, and leaves behind a text message. This project demonstrates how to use HTML and CSS for character design and vanilla JavaScript for animation.
+  
+   [Demo](https://nada-tb.github.io/Walking-Lego-Character-Animation/)
+
 - **Key Features**:
   - **Animated Character**: Realistic walking movements of the Lego character.
   - **Alternating Movements**: Alternating the position of legs and arms for a convincing walking effect.
@@ -63,6 +66,9 @@ To explore any JavaScript animation project:
 
 ### 2. **Analog Clock with Random Mood Display**
 - **Description**: A virtual reproduction of a Swatch analog watch that includes a random mood display on page load. JavaScript's Date object is used for real-time clock functionality, and rotation angles are calculated for the clock hands.
+
+   [Demo](https://github.com/Nada-TB/Analog-Clock-with-Random-Mood-Display/tree/cabb4f615babf2df9c72b88433504c364ae67783)
+  
 - **Key Features**:
   - **Real-Time Clock**: Hour, minute, and second hands update in real-time.
   - **Random Mood Display**: Shows a random mood message on page load.
