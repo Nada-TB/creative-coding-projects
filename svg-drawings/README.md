@@ -68,7 +68,7 @@ To explore any SVG project:
   ![demo](https://github.com/Nada-TB/creative-coding-projects/blob/main/projects-preview/Screenshot%202024-07-26%20141723.png)
 
 ### 3. **Circular Progress Indicator with Percentage**
-- **Description**: An SVG graphic featuring a circular progress indicator with a percentage label and a visually distinct detached segment. This project illustrates your skill in creating functional data visualizations.
+- **Description**: An SVG graphic featuring a circular progress indicator with a percentage label and a visually distinct detached segment. This project illustrates my skill in creating functional data visualizations.
 - **Key Features**:
   - **Circular Progress Visualization**: Effectively represents progress with a clear, circular design.
   - **Percentage Labeling**: Integrates text for precise progress indication.
@@ -78,7 +78,7 @@ To explore any SVG project:
   ![demo](https://github.com/Nada-TB/creative-coding-projects/blob/main/projects-preview/Screenshot%202024-07-26%20141826.png)
 
 ### 4. **Nada Signature**
-- **Description**: A stylized SVG depiction of the signature "Nada," showcasing your ability to design custom text using SVG paths.
+- **Description**: A stylized SVG depiction of the signature "Nada," showcasing my ability to design custom text using SVG paths.
 - **Key Features**:
   - **Custom Text Design**: Utilizes SVG paths to create a unique and elegant text signature.
   - **Creative Approach**: Demonstrates artistic skills in text design and manipulation.
