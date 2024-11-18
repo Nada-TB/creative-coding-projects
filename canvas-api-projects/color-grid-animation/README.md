@@ -7,7 +7,7 @@ The **Color Grid Animation** project utilizes the HTML5 Canvas API to create a d
 
 ## Live Demo
 
-[Click here](https://codepen.io/Nada_T/full/abzXjpq) 
+[Click here](https://codepen.io/Nada_T/full/WNaXZyR) 
 
 ## How to View
 
